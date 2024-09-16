@@ -1,6 +1,6 @@
 <footer class="modern-footer">
     <div class="footer-content">
-        <p>&copy; 2024 Yollo. Tous droits réservés.</p>
+        <p>&copy; 2024 TT. Tous droits réservés.</p>
         <nav>
             <a href="dashboard.php">Accueil</a>
             <a href="gestion.php">Gestion</a>

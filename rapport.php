@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Rapports - Yollo";
+$pageTitle = "Rapports - TurboTraffic";
 $bodyClass = "rapports-page";
 include 'includes/header.php';
 require_once 'includes/db.php';

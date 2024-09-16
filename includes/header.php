@@ -22,7 +22,7 @@ session_regenerate_id(true);
 <body class="<?php echo $bodyClass ?? ''; ?>">
     <?php if (isset($_SESSION['user_id'])): ?>
     <header class="main-header">
-        <h1><a href="dashboard.php" style="text-decoration: none; color: white;">Yollo</a></h1>
+        <h1><a href="dashboard.php" style="text-decoration: none; color: white;">TurboTraffic</a></h1>
         <nav>
             <ul>
                 <li><a href="dashboard.php">Accueil</a></li>
